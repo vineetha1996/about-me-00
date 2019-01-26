@@ -1,11 +1,11 @@
 # About Me 00
 
-This is my developer page.
+My developer site.
 
 ## Links
 
-- [Source]()
+- [Source](https://github.com/profcase/about-me-00)
 
-## About 
+## About
 
 Denise Case
